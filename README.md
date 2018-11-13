@@ -1,2 +1,2 @@
 # css-rotating-square
-Rotating square using CSS3
+A simple rotating square using CSS3 @keyframes.
